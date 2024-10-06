@@ -1,6 +1,6 @@
 <h1 align="center">✨ Conway's Game of Life ✨</h1>
 
-![](https://github.com/rayanio/Interactive-Path-Finder/blob/main/path-finder-demo.gif)
+![](https://github.com/rayanio/Conway-Game-of-Life/blob/main/Conway-Game-of-Life-demo.gif)
 
 <p align="center"><strong>An interactive Conway's Game of Life with speed control, undo/redo, and grid modification using CustomTkinter.</strong></p>
 
